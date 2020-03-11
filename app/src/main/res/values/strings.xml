@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MVP-Volley</string>
+    <string name="nama_stamp">Nama Stamp</string>
+    <string name="date_start">date start</string>
+    <string name="line">-</string>
+    <string name="date_end">date end</string>
+</resources>
